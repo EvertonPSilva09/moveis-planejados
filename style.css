@@ -31,7 +31,8 @@ a {
   color: #ff9900;
 }
 
-p, #footer {
+p,
+#footer {
   color: #7d7987;
 
   font-size: 14px;
@@ -43,10 +44,16 @@ p, #footer {
 }
 
 #line {
-	width: 568px;
-	height: 0px;
+  width: 568px;
+  height: 0px;
 
-	margin: 0 auto 8px;
+  margin: 0 auto 8px;
 
-	border: 1px solid #eceff2;
+  border: 1px solid #eceff2;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
 }
