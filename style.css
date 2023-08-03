@@ -13,7 +13,13 @@ body {
   text-align: center;
 }
 
-span, a {
+#hero {
+  width: 592px;
+  margin: auto;
+}
+
+span,
+a {
   color: #ff9900;
 }
 
