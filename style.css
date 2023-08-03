@@ -4,6 +4,10 @@ h1 {
   line-height: 56px;
 }
 
+h1 span {
+  font-weight: bold;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
 }
@@ -13,5 +17,5 @@ span {
 }
 
 p {
-    color: #7D7987
+  color: #7d7987;
 }
