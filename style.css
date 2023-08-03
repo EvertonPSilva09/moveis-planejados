@@ -3,7 +3,7 @@ h1 {
   font-size: 49px;
   line-height: 56px;
 
-	margin-bottom: 32px;
+  margin-bottom: 32px;
 }
 
 h1 span {
@@ -12,9 +12,9 @@ h1 span {
 
 body {
   font-family: "Open Sans", sans-serif;
-  
-	text-align: center;
-	margin: 0;
+
+  text-align: center;
+  margin: 0;
 }
 
 #hero {
@@ -23,7 +23,7 @@ body {
 }
 
 #hero img {
-	margin-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 span,
@@ -34,6 +34,10 @@ a {
 p {
   color: #7d7987;
 
-	font-size: 14px;
-	line-height: 28px;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#footer a + a {
+  margin-left: 28px;
 }
